@@ -44,7 +44,7 @@ export const Accordion: FC<AcordionProps> = ({ items }) => {
               </span>
             </button>
             <div
-              className={`text-start max-w-[1290px] px-[12px] sm:px-[0px] mx-auto text-18 font-montserrat font-normal leading-[168%] tracking-[0.212px] pt-[24px] pb-[24px] bg-gray-100 opacity-70 ${active}`}
+              className={`text-white text-start max-w-[1290px] px-[12px] sm:px-[0px] mx-auto text-18 font-montserrat font-normal leading-[168%] tracking-[0.212px] pt-[24px] pb-[24px] bg-gray-100 opacity-70 ${active}`}
             >
               {item.content}
             </div>

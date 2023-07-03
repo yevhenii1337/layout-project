@@ -1,0 +1,1 @@
+export { AboutAs } from './about-us'

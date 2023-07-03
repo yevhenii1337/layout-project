@@ -1,0 +1,1 @@
+export { AdditionaInfo } from './additional-info'
